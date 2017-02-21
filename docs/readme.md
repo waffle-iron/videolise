@@ -1,8 +1,4 @@
-:tv: Videolise
---------------
-Convert html/markdown content of any website into a video presentation!
-
-### Features
+# Features
 
 - Automated Storyline builder
 - Video only speed control (you can listen audio in habitual speed)
@@ -13,12 +9,12 @@ Convert html/markdown content of any website into a video presentation!
     * Text Frames by Canvas JS and CSS/HTML
     * [Chrome WebGL Experiment] Frames :new:
 
-### Example
+# Example Usage
 
 http://videolise.graphics#http://videolise.graphics/examples/photoblog.html
 
 ---
-Based on [diaporama:octocat:](https://github.com/gre/diaporama/)
+Based on [diaporama](https://github.com/gre/diaporama/)
 
 [KenBurns Effect]: https://en.wikipedia.org/wiki/Ken_Burns_effect
 [Chrome WebGL Experiment]: https://www.chromeexperiments.com/webgl
