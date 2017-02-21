@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/visuart/videolise.png?label=ready&title=Ready)](https://waffle.io/visuart/videolise)
 :tv: Videolise
 --------------
 
