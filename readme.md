@@ -1,6 +1,5 @@
 :tv: Videolise
 --------------
-Convert html/markdown content of any website into a video presentation!
 
 ### Features
 
