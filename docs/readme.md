@@ -2,16 +2,16 @@
 
 - Automated Storyline builder
 - Video only speed control (you can listen audio in habitual speed)
-- Online Video Editor :new:
+- Online Video Editor (in progress)
 - High quality animation:
     * Apple&copy; iMove [KenBurns Effect]
     * Community-driven [GLSL] Transitions ([examples][Transitions])
     * Text Frames by Canvas JS and CSS/HTML
-    * [Chrome WebGL Experiment] Frames :new:
+    * [Chrome WebGL Experiment] Frames (in progress)
 
 # Example Usage
 
-http://videolise.graphics#http://videolise.graphics/examples/photoblog.html
+http://videolise.graphics/#http://videolise.graphics/examples/photoblog.html
 
 ---
 Based on [diaporama](https://github.com/gre/diaporama/)
