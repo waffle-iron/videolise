@@ -20,5 +20,3 @@ Based on [diaporama](https://github.com/gre/diaporama/)
 [Chrome WebGL Experiment]: https://www.chromeexperiments.com/webgl
 [GLSL]: http://glslsandbox.com
 [Transitions]: http://greweb.me/glsl-transition/examples/3/
-
-{% include_relative ../player/index.html %}
