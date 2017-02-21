@@ -1,0 +1,17 @@
+{
+  "name": "videolise",
+  "version": "0.1.0",
+  "description": "Convert html/markdown content of any website into a video presentation!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "visuart <AlexanderShvets@quadronet.mk.ua>",
+  "license": "ISC",
+  "dependencies": {
+    "artoo": "^0.2.1",
+    "backendless": "^3.1.23",
+    "diaporama": "^2.2.0",
+    "to-markdown": "^3.0.3"
+  }
+}
