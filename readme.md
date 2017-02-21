@@ -9,7 +9,7 @@ Convert html/markdown content of any website into a video presentation!
 - Online Video Editor :new:
 - High quality animation:
     * Apple&copy; iMove [KenBurns Effect]
-    * Community-driven [GLSL] [Transitions]
+    * Community-driven [GLSL] Transitions ([examples][Transitions])
     * Text Frames by Canvas JS and CSS/HTML
     * [Chrome WebGL Experiment] Frames :new:
 
